@@ -13,7 +13,7 @@ pip install -r requirements.txt
 
 ### Downloading the Data
 
-First, you need to download the [LaMP-QA](https://github.com/LaMP-Benchmark/LaMP-QA?tab=readme-ov-file#rag-personalization) dataset. For this purpose, you can use the following code:
+First, you need to download the [LaMP-QA](https://github.com/LaMP-Benchmark/LaMP-QA?tab=readme-ov-file#downloading-the-dataset) dataset. For this purpose, you can use the following code:
 
 ```bash
 python download.py \
@@ -90,7 +90,7 @@ The result file has the following structure:
 
 ## Evaluation
 
-Please use the evaluation script provided by the [LaMP-QA](https://github.com/LaMP-Benchmark/LaMP-QA?tab=readme-ov-file#rag-personalization) benchmark to evaluate generated responses.
+Please use the evaluation script provided by the [LaMP-QA](https://github.com/LaMP-Benchmark/LaMP-QA?tab=readme-ov-file#evaluating-the-generated-responses) benchmark to evaluate generated responses.
 
 ## Acknowledgment
 
