@@ -1,0 +1,10 @@
+json5==0.12.1
+numpy==2.4.1
+openai==2.15.0
+presidio_analyzer==2.2.360
+rank_bm25==0.2.2
+torch==2.9.0
+tqdm==4.67.1
+transformers==4.57.3
+vllm==0.12.0
+datasets
